@@ -131,3 +131,24 @@ div p:nth-child(1){
 div p:nth-child(2){
     padding-bottom: 1rem;
 }
+/*  media queris*/
+
+@media (max-width:1024px){
+    .instagtam-wrapper{
+        width:90%
+    }
+}
+@media (max-width:300px){
+    body{
+        background-color: black;
+    }S
+    .instagram-wrapper{
+        width: 90%;
+    }
+    .instagram-phone{
+        display:none;
+    }
+    .instagram-continue{
+        width: 100%;
+    }
+}
