@@ -1,0 +1,6 @@
+pokemom; 80
+testeee; 50
+maoe; 10
+igor; 19
+Nathali; 19
+ivan; 30
